@@ -165,6 +165,10 @@ z-index: 999;
   text-decoration: none;
 }
 
+textarea[name=message] {
+  resize: none;
+}
+
 /* End Feature CSS */
 
 /* Start Blog CSS */
