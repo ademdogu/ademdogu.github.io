@@ -10,10 +10,11 @@ http://www.templatemo.com/tm-476-conquer
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body onload = 'newQuote();'>
 	<nav class="navbar navbar-inverse navbar-fixed-top">
 		<div class="container">
 			<div class="navbar-header">
@@ -238,7 +239,7 @@ http://www.templatemo.com/tm-476-conquer
 								<div class="col-sm-12">
 									<div class="footer-content">
 										<h1>Quote of the week!</h1>
-										<p>“A dog will teach you unconditional love. If you can have that in your life, things won't be too bad.”</p>
+										<p><div id = "quoteDisplay"></div></p>
 										</div>
 									</div>
 								</div>
@@ -259,6 +260,7 @@ http://www.templatemo.com/tm-476-conquer
 						</footer>
 						<!-- End Footer Area -->
 
+						<script src="js/quoteGenerate.js"></script>
 						<script src="js/jquery-1.11.2.min.js"></script>
 						<script src="js/jquery.scrollUp.min.js"></script> <!-- https://github.com/markgoodyear/scrollup -->
 						<script src="js/jquery.singlePageNav.min.js"></script> <!-- https://github.com/ChrisWojcik/single-page-nav -->
