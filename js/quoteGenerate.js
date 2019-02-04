@@ -7,7 +7,12 @@ var quotes = [
 '“A lot of shelter dogs are mutts like me.” – Barack Obama',
 '“The only creatures that are evolved enough to convey pure love are dogs and infants.” — Johnny Depp',
 '“I don’t think twice about picking up my dog’s poop, but if another dog’s poop is next to it, I think, ‘Eww, dog poop!”  – Jonah Goldberg',
-'“There is no psychiatrist in the world like a puppy licking your face.” – Ben Williams'
+'“There is no psychiatrist in the world like a puppy licking your face.” – Ben Williams',
+'“A dog owner might be the master of his dog, but the dog is also a master, a master of friendship!” ― Mehmet Murat ildan',
+'“I care not for a mans religion whose dog and cat are not the better for it.” ― Abraham Lincoln',
+'“You can always trust a dog that likes peanut butter.” ― Kate DiCamillo',
+'What do dogs do on their day off?; Cannot lie around – that is their job!” ― George Carlin',
+'“A dog is a great promoter of friendly intercourse.” ― Agatha Christie'
 ]
 
 
